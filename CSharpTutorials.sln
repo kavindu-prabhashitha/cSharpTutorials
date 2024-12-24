@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationSettingsProgra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingProgram", "LoggingProgram\LoggingProgram.csproj", "{0A091593-9E21-4CD2-B9C4-CBCFA7CF3F46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMApp", "MVVMApp\MVVMApp.csproj", "{4F45407C-19AC-4025-9344-1D590941E450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApp", "MVCApp\MVCApp.csproj", "{E73C21E9-9C86-4BFB-80F2-AC53060B8792}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{0A091593-9E21-4CD2-B9C4-CBCFA7CF3F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A091593-9E21-4CD2-B9C4-CBCFA7CF3F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A091593-9E21-4CD2-B9C4-CBCFA7CF3F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F45407C-19AC-4025-9344-1D590941E450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F45407C-19AC-4025-9344-1D590941E450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F45407C-19AC-4025-9344-1D590941E450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F45407C-19AC-4025-9344-1D590941E450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73C21E9-9C86-4BFB-80F2-AC53060B8792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73C21E9-9C86-4BFB-80F2-AC53060B8792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73C21E9-9C86-4BFB-80F2-AC53060B8792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73C21E9-9C86-4BFB-80F2-AC53060B8792}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
